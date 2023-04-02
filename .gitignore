@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Примеры/*
+Литература/*
+!Литература/Источники.txt

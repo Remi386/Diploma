@@ -1,0 +1,3 @@
+[submodule "Server/datasets"]
+	path = Server/datasets
+	url = https://github.com/Remi386/fraud_datasets

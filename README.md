@@ -19,4 +19,4 @@ git submodule update --init
 ```
 git lfs install
 ```
-или загрузить из [](https://git-lfs.com/)
+или загрузить из [GIT LFS](https://git-lfs.com/)
